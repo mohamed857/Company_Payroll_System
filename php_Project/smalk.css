@@ -1,0 +1,66 @@
+ table{ 
+    padding:20px;
+    border-radius:150px;
+    color:crimson;
+    text-align:center;
+    width:90%;
+    margin:5px auto;
+    font-size:20px}
+    body{ 
+     height:900px;
+     width:100%  
+    }
+    fieldset {
+      color:crimson;
+      border-color: crimson;
+    }
+    fieldset legend{ background-color: rgba(0,0,0,0.5);
+      border-radius: 29px;
+      font-size: 20px;
+      
+    }
+    table th{    font-size: 20px;
+      background-color: rgba(0,0,0,0.5);
+      border-radius: 29px;
+
+
+
+    }
+    
+
+  input,button{
+    padding:10px;
+    font-size:20px;
+    font-weight:bold;
+    border:1px solid #000;
+    border-radius:15px;
+    
+    text-decoration-color: #FFF ;
+    
+  }
+  input{
+    
+  }
+ 
+  #b{
+    background-color:#f1f1f1;
+    border:none;
+    height:30px;
+    text-align:left;
+    padding:5px
+  }
+  td{
+    border:none;
+    padding:5px;
+  }
+  tr{
+    border-bottom:1px solid #cbcbcb;
+  }
+ 
+
+  p{
+    font-size: 20px;  
+    margin-bottom: 5px;
+    font-weight:bold;
+  }
+  
